@@ -1,0 +1,41 @@
+[
+    {
+        "id": "0",
+        "title": "半成品投料",
+        "img_icon": "0xe826",
+        "am": 1
+    },
+    {
+        "id": "1",
+        "title": "原辅料复核",
+        "img_icon": "0xe93a",
+        "am": 1
+    },
+    {
+        "id": "2",
+        "title": "原辅料退库",
+        "img_icon": "0xe629",
+        "am": 1
+    },
+    {
+        "id": "3",
+        "title": "物料信息",
+        "img_icon": "0xe5bb",
+        "am": 1
+    },{
+        "id": "4",
+        "title": "设备状态",
+        "img_icon": "0xe67a",
+        "am": 1
+    },{
+        "id": "5",
+        "title": "重打标签",
+        "img_icon": "0xe956",
+        "am": 1
+    },{
+        "id": "6",
+        "title": "更改状态",
+        "img_icon": "0xe5fe",
+        "am": 1
+    }
+]
